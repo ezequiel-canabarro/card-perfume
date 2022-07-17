@@ -18,8 +18,8 @@ body {
   display: flex;
   border-radius: 8px;
 
-  height: 60%;
-  width: 50%;
+  height: 350px;
+  width: 400px;
 }
 img {
   width: 100%;
